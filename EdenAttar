@@ -14,9 +14,7 @@ to cultivate this public space... I'm her brand manager...
 
 ::2
 
-(set: $see to (prompt: "Tell me, what would you like to see, traveler?"))
-
-$see. Interesting... we have
+Here's what we've got today:
 
 [[Bio|Bio]]
 
