@@ -1,0 +1,38 @@
+:: StoryTitle
+Eden's Garden 
+
+:: Start
+
+Welcome, to the garden of Eden Attar, I am Nede Ratta, the gardener genie 
+I am a narcissistic fragment of Eden's ego, set on a special mission
+to cultivate this public space... I'm her brand manager...   
+
+|A>[coat]
+
+\(click-append:?A)+(t8n:'dissolve')[ //(a handsome black coating of plumage that has sustained you through winter and spring, that seems almost to suck the sun's heat and light out of the air)//]
+
+[[Continue|2]]
+
+::2
+
+(set: $see to (prompt: "Tell me, what would you like to see, traveler?"))
+
+$see. Interesting... we have
+
+:: Resume
+
+I did stuff once
+
+:: Cabinet
+
+Music things
+
+::MyCoolStylesheet [stylesheet]
+
+body {
+  background: #ebebeb;
+}
+
+tw-passage tw-link {
+  color: blue;
+}
