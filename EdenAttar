@@ -1,15 +1,14 @@
+::StoryIFID[twee2]
+Twee2::build_config.story_ifid = '46444d47-3fe1-4448-b51d-7631f8a25c34'
+
 :: StoryTitle
 Eden's Garden 
 
 :: Start
 
-Welcome, to the garden of Eden Attar, I am Nede Ratta, the gardener genie 
+Welcome, to the garden of Eden Attar, I am Nede Ratta, the gardener genie. 
 I am a narcissistic fragment of Eden's ego, set on a special mission
 to cultivate this public space... I'm her brand manager...   
-
-|A>[coat]
-
-\(click-append:?A)+(t8n:'dissolve')[ //(a handsome black coating of plumage that has sustained you through winter and spring, that seems almost to suck the sun's heat and light out of the air)//]
 
 [[Continue|2]]
 
@@ -19,9 +18,15 @@ to cultivate this public space... I'm her brand manager...
 
 $see. Interesting... we have
 
-:: Resume
+[[Bio|Bio]]
 
-I did stuff once
+[[Cabinet of Curiosities|Cabinet]]
+
+:: Bio
+
+Eden is, well, she's here right now, just ask her to tell you. This narcissistic genie needs a smoking break. 
+
+Hi! I'm Eden Attar! I am a graduate student in musicology at Washington University in Saint Louis, where I am writing my masters' thesis on forms of listening taught on *Sesame Street*. While I am in the musicology department, I really consider myself a *media ecologist,* that is, I study media as an interconnected web of communicating, competing, and symbiotic entities. You can read all about it in my draft ![[Here|https://github.com/Meadowlarke/Thesis]] 
 
 :: Cabinet
 
