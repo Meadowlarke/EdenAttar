@@ -18,7 +18,8 @@ Here's what's growing in the garden:
 
 [[Bio|Bio]]
 
-[[Resume|Resume]]
+(link-reveal: "Resume")[(open-url: "CV.pdf")]
+
 
 [[Cabinet of Curiosities|Cabinet]]
 
@@ -29,18 +30,11 @@ Here's what's growing in the garden:
 
 (link-reveal: "Smoking PSA")[: It is completely okay for genies to smoke. I mean, they are after all like 99% made of smoke. If you are a human with lungs, you should probably not smoke, unless that is really the way you want to die.]
 
-Hi! I'm Eden Attar! I am a graduate student in musicology at Washington University in Saint Louis, where I am writing my masters' thesis on *Sesame Street* and the forms of listening it teaches. While I am in the musicology department, I really consider myself a *media ecologist,* that is, I study media as an interconnected web of communicating, competing, and symbiotic entities akin to the way that an ecologist would study a section of forest. You can read all about it in my draft available [[on github.|draft]] You can see more of my musicological work in my [[cabinet of curiosities|Cabinet]]
+Hi! I'm Eden Attar! I am a graduate student in musicology at Washington University in Saint Louis, where I am writing my masters' thesis on *Sesame Street* and the forms of listening it teaches. While I am in the musicology department, I really consider myself a *media ecologist,* that is, I study media as an interconnected web of communicating, competing, and symbiotic entities akin to the way that an ecologist would study a section of forest. You can read all about it in my draft available (link-reveal: "on github")[(open-url: "https://github.com/Meadowlarke/Thesis")] You can see more of my musicological work in my [[cabinet of curiosities|Cabinet]]
 
-My research on *Sesame Street* is closely related to my practice as a *network artist.* Network art is the design and curation of aesthetically pleasing computer networks or other infrastructures. One of my favorite examples of network art is Roel Roscam Abbing's *Messing Around With Packet Radio.* If you found yourself here, I can imagine you would love his site: https://test.roelof.info/
+My research on *Sesame Street* is closely related to my practice as a *network artist.* Network art is the design and curation of aesthetically pleasing computer networks or other infrastructures. One of my favorite examples of network art is Roel Roscam Abbing's *Messing Around With Packet Radio.* If you found yourself here, I can imagine you would love his site: (link-reveal: "his site")[open-url: "https://test.roelof.info/"]
 
-I am also a musician, composer, and improviser. At the moment I mostly play harpsichord, sing, and experiment with synthesizers. When I lived in Chicago I lead the group Meadowlarke. I maintain the old website for old time's sake, and its a little broken at the moment, so [[hold on to your hats 'cause it's a wild ride!|meadowlarke]] 
-
-:: draft
-
-Taking you to github
-
-(open-url: "https://github.com/Meadowlarke/Thesis")
-
+I am also a musician, composer, and improviser. At the moment I mostly play harpsichord, sing, and experiment with synthesizers. When I lived in Chicago I lead the group Meadowlarke. I maintain the old website for old time's sake, and its a little broken at the moment, so (link-reveal: "hold on to your hats 'cause it's a wild ride!")[(open-url: "https://meadowlarke.github.io/website/")]
 
 :: Cabinet
 
@@ -64,28 +58,15 @@ https://meadowlarke.github.io/Yet/
 
 When I first arrived at the program at WASHU I was really frustrated that musicology papers didn't have embedded audio, so I started writing my musicology papers as html webpages.
 
-[[Get Out and Get Under: the perennial story of man and machine|GetOut]] 
 
-[[Mocking and Mimicry in a Banana-Themed Tin Pan Alley Exchange: a song about a song|Bananas]]
+(link-reveal: "Get Out and Get Under: the perennial story of man and machine")[open-url: "GetUnder.html"] 
+
+(link-reveal: "Mocking and Mimicry in a Banana-Themed Tin Pan Alley Exchange: a song about a song")[(open-url: "Bananas.html")]
 
 
-:: GetOut
 
-(open-url: "GetUnder.html")
 
-:: Bananas
 
-(open-url: "Bananas.html")
-
-:: Resume
-
-(open-url: "CV.pdf")
-
-:: meadowlarke
-
-Taking you to the meadow. 
-
-(open-url: "https://meadowlarke.github.io/website/")
 
 :: House
 
