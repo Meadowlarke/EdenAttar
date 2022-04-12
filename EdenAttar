@@ -58,7 +58,7 @@ Welcome to the cabinet of curiosities.
 When I first arrived at the program at WASHU I was really frustrated that musicology papers didn't have embedded audio, so I started writing my musicology papers as html webpages.
 
 
-(link-reveal: "Get Out and Get Under: the perennial story of man and machine")[open-url: "GetUnder.html"] 
+(link-reveal: "Get Out and Get Under: the perennial story of man and machine")[(open-url: "GetUnder.html")] 
 
 (link-reveal: "Mocking and Mimicry in a Banana-Themed Tin Pan Alley Exchange: a song about a song")[(open-url: "Bananas.html")]
 
